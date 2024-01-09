@@ -1,0 +1,3 @@
+https://www.kaggle.com/code/thomaskonstantin/analyzing-and-modeling-stroke-data/notebook
+
+https://www.kaggle.com/code/joshuaswords/predicting-a-stroke-shap-lime-explainer-eli5

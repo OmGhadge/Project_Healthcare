@@ -1,0 +1,11 @@
+# General Libraries
+numpy
+pandas
+matplotlib
+scipy
+
+# Data Handling / Analysis
+scikit-learn
+seaborn
+
+
