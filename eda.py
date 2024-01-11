@@ -506,3 +506,4 @@ plt.tight_layout()
 plt.show()
 
 # done with the visual now do the same for the smote and other tech
+

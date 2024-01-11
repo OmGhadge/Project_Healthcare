@@ -1,3 +1,11 @@
 https://www.kaggle.com/code/thomaskonstantin/analyzing-and-modeling-stroke-data/notebook
 
 https://www.kaggle.com/code/joshuaswords/predicting-a-stroke-shap-lime-explainer-eli5
+
+ON SCALING BEFORE OF AFTER balancing
+https://datascience.stackexchange.com/questions/71515/should-i-scale-data-before-or-after-balancing-dataset
+
+Example iusing ensemble class methods
+https://imbalanced-learn.org/stable/auto_examples/ensemble/plot_bagging_classifier.html#id4
+The BalancedBaggingClassifier can use in conjunction with a RandomUnderSampler or RandomOverSampler. 
+These methods are referred as Exactly Balanced Bagging and Over-Bagging, respectively and have been proposed first in
